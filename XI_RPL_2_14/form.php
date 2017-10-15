@@ -6,7 +6,7 @@
  <link rel="stylesheet" href="style.css">
 </head>
 <body>
- <form action="view.php" method="post">
+ <form action="hasil.php" method="post">
  <h2>Instagram</h2>
  <h3>Buat akun untuk melihat foto dan video dari teman anda</h3>
  <div class="btnfb">
