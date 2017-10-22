@@ -32,7 +32,7 @@
 		</div>
 		<hr>
 		<div class="button">
-		<p align="center"><button class="btn" type="submit"><a href="index.php"><b>Ulang</b></a></button></p>
+		<p align="center"><button class="btn" type="submit"><a href="form.php"><b>Ulang</b></a></button></p>
 		</div>
 	</div>
 </body>
