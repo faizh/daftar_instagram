@@ -10,7 +10,7 @@
  <h2>Instagram</h2>
  <h3>Buat akun untuk melihat foto dan video dari teman anda</h3>
  <div class="btnfb">
-  <a href="facebook.com"><button class="btn btn-facebook">Masuk dengan Facebook</button></a>
+  <a href="facebook.com"><button type="button" class="btn btn-facebook">Masuk dengan Facebook</button></a>
  </div>
  <h4>Atau</h3>
  <div class="form-group">
